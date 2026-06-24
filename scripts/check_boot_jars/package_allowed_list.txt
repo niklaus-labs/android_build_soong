@@ -290,11 +290,14 @@ com\.nvidia
 com\.nvidia\..*
 
 # OPLUS adds
+com\.color\.inner\..*
+com\.oppo\..*
 com\.oplus\..*
 net\.oneplus\..*
 oplus\..*
 vendor\.oplus\..*
 com\.oneplus\..*
+com\.oppo\.media
 com\.thundersoft\..*
 vendor\.oneplus\..*
 
